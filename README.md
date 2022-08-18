@@ -1,5 +1,5 @@
-# Insortion Sort
-Insortion Sort Proje
+# Insertion Sort
+Insertion Sort Proje
 
 [22,27,16,2,18,6] -> Insertion Sort
 
